@@ -1,0 +1,8 @@
+﻿Hi there,
+
+A visitor has left the following query at the site:
+
+Name:             ##Name##
+E-mail Address:   ##Email##
+Contact No:	      ##ContactNo##
+Query:			  ##Query##
