@@ -28,7 +28,7 @@ public partial class Contact : System.Web.UI.Page
         smtpclient.Credentials = new System.Net.NetworkCredential()
         {
             UserName = "farooqui.ubaid@gmail.com",
-            Password = "ubaidamber"
+            Password = "******"
         };
         smtpclient.EnableSsl = true;
         smtpclient.Send(Message); */
